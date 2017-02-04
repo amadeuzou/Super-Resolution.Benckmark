@@ -117,19 +117,28 @@ Results from papers of VDSR, DRCN, CSCN and IA.
 ##### -- Results on Set 5 (PSNR/SSIM/Time)
 
 |  Scale    | Bicubic | A+  | SRCNN | SelfExSR | SCN | VDSR | DRCN | IA | PSyCo (32)|PSyCo (1024) | FSRCNN-S | FSRCNN | RAISR |   
-|:---------:|:-------:|:--------:|:------:|:----:|:----:|:----:|:----:|:----:|
-| **2x** |   33.66/0.002 	|   36.54/0.684 	|   36.66/4.722 	|   36.49/42.521  	|  36.93 	|  37.53/0.9587/0.13 | 37.63/0.9588/1.54 	|37.39| 36.57/0.038  | 36.88/0.185 | 36.58/0.024 | 37.00/0.068 |36.061/0.951/0.018    
-| **3x** |   30.39/0.002	|   32.59/0.401	|   32.75/5.226 	|   32.58/31.008	|  33.10	|  33.66/0.9213/0.13 	|  33.82/0.9226/1.55 	|33.46| 32.63/0.049 | 32.93/0.456 | 32.61/0.010 | 33.16/0.027 |32.172/0.900/0.015  
-| **4x** |   28.42/0.002 	|   30.28/0.226 	|   30.48/9.962  	|   30.31/26.728 	|  30.86 	|  31.35/0.8838/0.12 |  31.53/0.8854/1.54 	|31.10| 30.32/0.055 | 30.62/0.210 | 30.11/0.0052 | 30.71/0.015 |29.834/0.848/0.017 
+|:---------:|:-------:|:--------:|:------:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+| **2x** |   33.66/0.002 	|   36.54/0.684 	|   36.66/4.722 	|   36.49/42.521  	|  36.93 	|  37.53/0.9587/0.13 | 37.63/0.9588/1.54 	|37.39| 36.57/0.038  | 36.88/0.185 | 36.58/0.024 | 37.00/0.068 |36.061/0.951/0.018 |   
+| **3x** |   30.39/0.002	|   32.59/0.401	|   32.75/5.226 	|   32.58/31.008	|  33.10	|  33.66/0.9213/0.13 	|  33.82/0.9226/1.55 	|33.46| 32.63/0.049 | 32.93/0.456 | 32.61/0.010 | 33.16/0.027 |32.172/0.900/0.015  |
+| **4x** |   28.42/0.002 	|   30.28/0.226 	|   30.48/9.962  	|   30.31/26.728 	|  30.86 	|  31.35/0.8838/0.12 |  31.53/0.8854/1.54 	|31.10| 30.32/0.055 | 30.62/0.210 | 30.11/0.0052 | 30.71/0.015 |29.834/0.848/0.017 |
 
 ##### ---
 [ **RAISR** ] [RAISR: Rapid and Accurate Image Super Resolution](https://drive.google.com/file/d/0BzCe024Ewz8ab2RKUFVFZGJ4OWc/view)
+
 [ **PSyCo** ] [PSyCo: Manifold Span Reduction for Super Resolution](https://bitbucket.org/EduPerez/psycosuperres/wiki/Home)
+
 [ **FSRCNN** ] [Accelerating the Super-Resolution Convolutional Neural Network](http://mmlab.ie.cuhk.edu.hk/projects/FSRCNN.html)
+
 [ **DRCN** ] [Deeply-Recursive Convolutional Network for Image Super-Resolution](http://cv.snu.ac.kr/research/DRCN/)
+
 [ **AI** ] [Seven ways to improve example-based single image super resolution](http://www.vision.ee.ethz.ch/~timofter/CVPR2016_ID769_SUPPLEMENTARY/index.html)
+
 [ **VDSR** ] [Accurate Image Super-Resolution Using Very Deep Convolutional Networks](http://cv.snu.ac.kr/research/VDSR/)
+
 [ **SCN** ] [Deep Networks for Image Super-Resolution with Sparse Prior](http://www.ifp.illinois.edu/~dingliu2/iccv15/)
+
 [ **SRCNN** ] [Image Super-Resolution Using Deep Convolutional Networks](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html)
+
 [ **ANR** ] [Anchored Neighborhood Regression for Fast Example-Based Super-Resolution](http://www.vision.ee.ethz.ch/~timofter/ICCV2013_ID1774_SUPPLEMENTARY/index.html)
+
 [ **A+** ] [A+: Adjusted Anchored Neighborhood Regression for Fast Super-Resolution](http://www.vision.ee.ethz.ch/~timofter/ACCV2014_ID820_SUPPLEMENTARY/)
